@@ -5,6 +5,7 @@ public class Firstpro {
 	public static void main(String[] args) {
 		
 		int a=10;
+		int b=320;
 		
 		int num=123456789;
 		int even_count=0;
