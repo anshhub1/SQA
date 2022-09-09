@@ -3,6 +3,10 @@ package ansh;
 public class Firstpro {
 
 	public static void main(String[] args) {
+		
+		int a=10;
+		int b=320;
+		
 		int num=123456789;
 		int even_count=0;
 		int odd_count=0;
@@ -20,6 +24,9 @@ public class Firstpro {
 		}
 		System.out.println("Even No. Digits= "+ even_count);
 		System.out.println("Odd No. Digits= "+ odd_count);
+		
+		
+		
 	}
 
 }
